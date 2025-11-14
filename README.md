@@ -1,12 +1,92 @@
-# React + Vite
+# 🌐 Meu Portfólio – Desenvolvedor Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o código-fonte do meu portfólio pessoal desenvolvido com **React + Vite**, utilizando **TailwindCSS**, **Framer Motion** e componentes modernos.  
+O projeto foi criado para apresentar minhas habilidades, trajetória e projetos na área de tecnologia.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🤖 Uso de Inteligência Artificial
 
-## Expanding the ESLint configuration
+Este portfólio foi desenvolvido com **apoio de ferramentas de IA**, utilizadas para:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- sugestões de layout e design  
+- otimização de código  
+- organização do projeto  
+- ajustes técnicos e boas práticas
+
+A criação e implementação do código foram feitas por mim, com a IA atuando como suporte técnico.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **React 19**
+- **Vite**
+- **TailwindCSS**
+- **Framer Motion**
+- **Lucide Icons**
+- **JavaScript / JSX**
+
+---
+
+## 📦 Como rodar o projeto localmente
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/rvalves10/portifolio.git
+Entre na pasta:
+
+bash
+Copiar código
+cd portifolio
+Instale as dependências:
+
+bash
+Copiar código
+npm install
+Rode o servidor de desenvolvimento:
+
+bash
+Copiar código
+npm run dev
+Acesse em:
+
+arduino
+Copiar código
+http://localhost:5173
+🌎 Deploy – GitHub Pages
+Este projeto está publicado via GitHub Pages.
+
+🔗 Acesse o portfólio:
+➡️ https://rvalves10.github.io/portifolio/
+
+Para publicar novas alterações:
+
+bash
+Copiar código
+npm run deploy
+📁 Estrutura do Projeto
+pgsql
+Copiar código
+portifolio/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.jsx
+│── index.html
+│── package.json
+│── vite.config.js
+✨ Sobre mim
+Sou Richard, desenvolvedor em formação, apaixonado por tecnologia e inteligência artificial.
+Atualmente estudo Desenvolvimento Web, Backend, Python, APIs, Testes e Boas Práticas de Arquitetura.
+Meu objetivo é crescer na área e construir soluções úteis e modernas.
+
+📬 Contato
+GitHub: https://github.com/rvalves10
+
+
+📝 Licença
+Este projeto é de uso pessoal. Você pode usar como referência para criar seu próprio portfólio.
