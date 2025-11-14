@@ -306,7 +306,7 @@ const AboutSection = ({ portfolioData }) => {
           <div className="flex flex-col md:flex-row items-center text-center md:text-left gap-8 md:gap-12">
             <div className="flex-shrink-0">
                <img 
-                 src="https://media.licdn.com/dms/image/v2/D4D03AQGg1GlttZvQ3A/profile-displayphoto-shrink_800_800/B4DZVjSY2mHYAc-/0/1741127520784?e=1760572800&v=beta&t=86a_n9XQ3jBOHS7oK78G_WO67vRVO93OW4dX7E_v1d4" 
+                 src="https://media.licdn.com/dms/image/v2/D4D03AQEFhXaU8Sd5Ig/profile-displayphoto-scale_200_200/B4DZmAh03KJMAY-/0/1758797977014?e=1764806400&v=beta&t=XUgaFBLdh_QLm4fQpvIHfQ8UqfpDnIW8LMTNNUsfo_E" 
                  alt="Foto de Richard Victor" 
                  className="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover border-4 border-slate-800 shadow-lg" 
                />
